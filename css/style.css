@@ -1,0 +1,72 @@
+title {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 150px;
+  font-weight: 700;
+  /* color: #66fcf1; */
+}
+body {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: large;
+  background-color: #edc7b7;
+  /* background-color: #88bdbc */
+  border: 0;
+  padding: 0;
+}
+
+#panel {
+  font-family: cursive;
+  font-size: large;
+  font-weight: bold;
+}
+
+#output_num {
+  background-color: #2a1b3d;
+  border-width: 10px;
+  font-size: 100px;
+  text-align: center;
+  align-content: center;
+  align-self: center;
+  text-decoration: tomato;
+  color: white;
+}
+
+#draw_canvas {
+  /* border: maroon; */
+  border-radius: 5px;
+  border-style: solid;
+  border-color: ivory;
+  border-width: 5px;
+  background-color: #5d001e;
+  width: 500px;
+  height: 500px;
+}
+
+.text_content {
+  font-family: monospace;
+  font-size: 25px;
+  color: white;
+  background-color: #2a1b3d;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  /* color: #123c69;    */
+}
+
+.heading {
+  font-size: 100px;
+  color: #ac3b61;
+}
+
+.btn {
+  /* padding-top: 20px; */
+  padding: 5px;
+  border-width: 5px;
+  border-radius: 15px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: monospace;
+  background-color: #050505;
+  align-content: center;
+}
